@@ -43,6 +43,7 @@ export PATH=/opt/qemu/bin:$PATH
 # User specific aliases and functions
 alias vi='nvim'
 alias neofetch='fastfetch'
+alias df='df -BG'
 
 # conda initialize (removed)
 
