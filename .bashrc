@@ -1,6 +1,6 @@
 # .bashrc
 # 06/2024 Added TERMINFO setup
-          Startupwith neofetch (fastfetch)
+#         Startupwith neofetch (fastfetch)
 
 # Source global definitions
 if [ -f /etc/bashrc ]; then
